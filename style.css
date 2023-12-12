@@ -1,0 +1,8 @@
+body{
+    background-image: url("fakkla.JPG")
+}
+p{
+    position: absolute;
+    height: 200;
+    width: 200;
+}
